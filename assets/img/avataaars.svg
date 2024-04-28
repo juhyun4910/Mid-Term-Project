@@ -37,6 +37,7 @@
 </style>
 <desc>Created with getavataaars.com</desc>
 <g>
+	
 	<g transform="translate(-825.000000, -1100.000000)">
 		<g transform="translate(825.000000, 1100.000000)">
 			<g id="Circle" transform="translate(12.000000, 40.000000)">
@@ -150,6 +151,8 @@
 							<path class="st18" d="M35.1,15.1C36.2,24.6,44.2,32,54,32c9.8,0,17.9-7.4,18.9-17c0.1-0.8-0.8-2-1.8-2c-14.9,0-26.3,0-34,0
 								C36,13,35,14.2,35.1,15.1z"/>
 						</g>
+						
+						
 						<defs>
 							<filter id="Adobe_OpacityMaskFilter_6_" filterUnits="userSpaceOnUse" x="39" y="2" width="31" height="16">
 								<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
